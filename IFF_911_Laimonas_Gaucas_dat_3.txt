@@ -1,0 +1,25 @@
+Taikos prospektas;32;350
+Studentu gatve;4;100
+Vinco kreves prospektas;10;400
+Studentu gatve;15;500
+Moksleiviu gatve;12;300.1
+Studentu gatve;2;400
+Robotu gatve;12;600
+Taikos prospektas;12;320
+Studentu gatve;44;300.2
+Vinco kreves prospektas;7;500.2
+Studentu gatve;7;720
+Moksleiviu gatve;7;450
+Studentu gatve;2;120
+Robotu gatve;11;100
+Riestainiu gatve;12;199
+Smilgos gatve;12;180
+Taikos prospektas;54;310.1
+Studentu gatve;69;190
+Vinco kreves prospektas;45;189.55
+Studentu gatve;8;360.2
+Moksleiviu gatve;7;110
+Studentu gatve;6;500.2
+Robotu gatve;2;199.9
+Riestainiu gatve;21;329
+Smilgos gatve;22;400
